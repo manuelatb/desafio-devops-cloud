@@ -4,7 +4,7 @@
 
 Link para o repositório do projeto conversão de distância:
 
-[https://github.com/KubeDev/conversao-distancia](https://github.com/KubeDev/conversao-distancia)
+[https://hub.docker.com/repository/docker/manuelatb/conversaodistancia/general](https://hub.docker.com/repository/docker/manuelatb/conversaodistancia/general)
 
 
 ## Aula 03 - AWS e EKS
